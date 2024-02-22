@@ -90,7 +90,7 @@ include "koneksi.php";
                                     </div>
                                     <div class="card-footer text-center py-3">
                                         <div class="small">
-                                            &copy; 2024 Perpustakaan Digital.
+                                            &copy; Perpustakaan Digital 2024.
                                     </div>
                                 </div>
                             </div>

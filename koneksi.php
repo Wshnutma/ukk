@@ -1,4 +1,4 @@
 <?php
 session_start();
-$koneksi = mysqli_connect('localhost', 'root', '', 'db_ujikom');
+$koneksi = mysqli_connect('localhost', 'root', '', 'db_ujikom_perpustakaan');
 ?>
